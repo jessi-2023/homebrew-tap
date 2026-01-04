@@ -9,13 +9,13 @@ A curated collection of Homebrew formulae for command-line tools and developer u
 To tap this repository:
 
 ```bash
-brew tap GourangaDasSamrat/tap
+brew tap gourangadassamrat/tap
 ```
 
 Once tapped, you can install any formula using:
 
 ```bash
-brew install GourangaDasSamrat/tap/<formula-name>
+brew install <formula-name>
 ```
 
 ## 🛠️ Available Formulae
@@ -32,7 +32,7 @@ A feature-rich, cross-platform command-line Todo application written in modern C
 
 **Installation:**
 ```bash
-brew install GourangaDasSamrat/tap/cli-todo-app
+brew install cli-todo-app
 ```
 
 **Source:** [github.com/GourangaDasSamrat/cli-todo-app](https://github.com/GourangaDasSamrat/cli-todo-app)
